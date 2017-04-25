@@ -38,9 +38,9 @@
     <div class="col-xs-6">
       <h4>調料</h4>
       <div class="well" id="left-well">
-        <button class="btn btn-default target" id="target1">#target1</button>
-        <button class="btn btn-default target" id="target2">#target2</button>
-        <button class="btn btn-default target" id="target3">#target3</button>
+        <button class="btn btn-default target" id="target1">醬油</button>
+        <button class="btn btn-default target" id="target2">芥末</button>
+        <button class="btn btn-default target" id="target3">甜辣醬</button>
       </div>
     </div>
     <div class="col-xs-6">
