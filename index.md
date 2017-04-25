@@ -44,11 +44,11 @@
       </div>
     </div>
     <div class="col-xs-7">
-  
+     <h4></h4>
       <div class="well" id="right-well">
-        <button class="btn btn-default target" id="target4">1</button>
-        <button class="btn btn-default target" id="target5">2</button>
-        <button class="btn btn-default target" id="target6">3</button>
+        <button class="btn btn-default target" id="target4">美乃滋</button>
+        <button class="btn btn-default target" id="target5">塔塔醬</button>
+        <button class="btn btn-default target" id="target6">海苔粉</button>
       </div>
     </div>
   </div>
