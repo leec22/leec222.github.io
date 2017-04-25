@@ -46,9 +46,9 @@
     <div class="col-xs-6">
       <h4>#right-well</h4>
       <div class="well" id="right-well">
-        <button class="btn btn-default target" id="target4">#target4</button>
-        <button class="btn btn-default target" id="target5">#target5</button>
-        <button class="btn btn-default target" id="target6">#target6</button>
+        <button class="btn btn-default target" id="target4">1</button>
+        <button class="btn btn-default target" id="target5">2</button>
+        <button class="btn btn-default target" id="target6">3</button>
       </div>
     </div>
   </div>
