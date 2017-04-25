@@ -1,8 +1,5 @@
 <html>
 <head>
-
-  </head>
-  
 <script>
   $(document).ready(function() {
 
@@ -20,6 +17,9 @@
       $("img").addClass("animated shake");  
   });  
   </script>
+  </head>
+  
+
 <body BACKGROUND="http://kabegami.org/wp-content/uploads/2013/04/YjHrXl.jpg"> 
 <h1 style="color:black">天婦羅介紹by 404262212資工二乙 李京倫</h1>
 <h2 style="color:black">我最近最想吃的料理</h2>
