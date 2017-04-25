@@ -44,7 +44,7 @@
       </div>
     </div>
     <div class="col-xs-7">
-      <h4></h4>
+  
       <div class="well" id="right-well">
         <button class="btn btn-default target" id="target4">1</button>
         <button class="btn btn-default target" id="target5">2</button>
