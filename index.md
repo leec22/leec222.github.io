@@ -35,7 +35,7 @@
  <div class="container-fluid">
   <h3 class="text-primary text-center">jQuery Playground</h3>
   <div class="row">
-    <div class="col-xs-6">
+    <div class="col-xs-7">
       <h4>調料</h4>
       <div class="well" id="left-well">
         <button class="btn btn-default target" id="target1">醬油</button>
@@ -43,7 +43,7 @@
         <button class="btn btn-default target" id="target3">甜辣醬</button>
       </div>
     </div>
-    <div class="col-xs-6">
+    <div class="col-xs-7">
       <h4></h4>
       <div class="well" id="right-well">
         <button class="btn btn-default target" id="target4">1</button>
